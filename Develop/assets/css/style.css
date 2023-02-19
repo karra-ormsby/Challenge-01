@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -125,8 +125,9 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    visibility: hidden;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
