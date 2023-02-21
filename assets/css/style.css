@@ -24,6 +24,7 @@ header h1 #seo {
     color: #d9dcd6;
 }
 
+/*setting the nav bar to the right of the header*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,6 +37,7 @@ header nav ul {
     list-style-type: none;
 }
 
+/*setting all links in the nav bar to display side by side in a row, instead of in a column */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*defining the main background image of the webpage*/
 #hero {
     height: 800px;
     width: 100%;
@@ -59,33 +62,26 @@ p {
     background-position: center;
 }
 
+/*pushes images to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*pushes images to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*houses all the cards that the nav bar links to*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
+/*making sure all cards that are linked in the nav bar follow the same styling */
  .nav-content {
      margin-bottom: 20px;
      padding: 50px;
@@ -104,6 +100,19 @@ p {
      font-size: 36px;
  }
 
+ /*the sidebar*/
+ .benefits {
+     margin-right: 20px;
+     padding: 20px;
+     clear: both;
+     float: right;
+     width: 20%;
+     height: 100%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: #2589bd;
+ }
+
+ /*making sure all items in the side bar fit and follow the same styling*/
 .sidebar {
     margin-bottom: 32px;
     color: #ffffff;
@@ -128,6 +137,7 @@ footer {
     visibility: hidden;
 }
 
+/*Changing the syling to the paragraphs in footer but excluding the last paragraph from that styling*/
 footer p:not(:last-child) {
     font-size: 20px;
     font-weight: bold;
