@@ -6,8 +6,7 @@ Given starter code for a Horiseon website, I have modified it to fit better with
 
 ##Installation
 
-N/A
-No installation needed. The code is deployed as a stand alone page on Git Pages. (add link to delpyed site here)
+No installation needed. The code is deployed as a stand alone page on Git Pages, (https://karra-ormsby.github.io/Challenge-01/)
 
 ##Usage
 
