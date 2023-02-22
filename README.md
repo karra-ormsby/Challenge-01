@@ -11,7 +11,7 @@ No installation needed. The code is deployed as a stand alone page on Git Pages.
 
 ##Usage
 
-The website is the homepage for a company Horiseon. You can use the navigation bar at the top right of the page ![image of the navigation bar](./Develop/assets/images/Nav%20bar.png) to navigate to a specific section if so desired ![where the navigation bar links to](./Develop/assets/images/What%20the%20Nav%20bar%20links%20to.png), or you can just view the page as a whole. 
+The website is the homepage for a company Horiseon. You can use the navigation bar at the top right of the page ![image of the navigation bar](./assets/images/Nav%20bar.png) to navigate to a specific section if so desired ![where the navigation bar links to](./assets/images/What%20the%20Nav%20bar%20links%20to.png), or you can just view the page as a whole. 
 
 ##Credits
 
@@ -19,4 +19,4 @@ Starter code provided by Monash Bootcamp (https://git.bootcampcontent.com/Monash
 
 ##License
 
-Please refer to the LICENSE repo.
+N/A

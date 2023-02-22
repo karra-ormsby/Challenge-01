@@ -48,10 +48,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /*defining the main background image of the webpage*/
 #hero {
     height: 800px;
@@ -60,6 +56,10 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+p {
+    font-size: 16px;
 }
 
 /*pushes images to the left */
@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/*making sure all cards that are linked in the nav bar follow the same styling */
+/*making sure all cards that are linked in the nav bar follow the same styling (along with all other blocks that include .nav-content)*/
  .nav-content {
      margin-bottom: 20px;
      padding: 50px;
@@ -112,7 +112,7 @@ p {
      background-color: #2589bd;
  }
 
- /*making sure all items in the side bar fit and follow the same styling*/
+ /*making sure all items in the side bar fit and follow the same styling along with all other blocks that include .sidebar)*/
 .sidebar {
     margin-bottom: 32px;
     color: #ffffff;
